@@ -1,0 +1,32 @@
+What is Django?
+
+=> Python web framework
+=> Server Side Framework
+=> Desgin to get you startted fast
+=> Batteries included
+=> MVT Desgin Pattern
+
+What is a Web framework?
+
+=> Collection of modules, packages and libraries Desgined to
+Speed up development
+
+MVT Desgin Pattern
+
+=> Model - Data Access Layer
+=> View - Buisness Logic
+=> Template - Presentaion Layer
+
+For creating super user in Django
+
+
+we need to type
+
+python manage.py createsuperuser
+
+starting from 3 hours 5 minutes 33 seconds
+
+starting from 3 hours 26 minutes 40 seconds
+
+this video last seen on 5 hours 37 minutes 35 seconds
+
